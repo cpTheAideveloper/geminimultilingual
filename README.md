@@ -22,8 +22,30 @@ Learn how to create your own AI apps.
   - TailwindCSS
   - Google Gemini API
 
-## Projects
-Explore various projects to enhance your skills. Check out our [theAIDeveloper Projects](https://www.the-aideveloper.com/projects).
+## 🎉 OFF30 - Get **30% Off** Any Project!  
+*First-time purchases only.*
+
+---
+
+## 🚀 Projects Section  
+
+### 🌟 Projects Available  
+
+💡 **ChatGPT Clone:** 👉 [Get the Code](https://www.the-aideveloper.com/products/ez94_t)  
+💡 **Gemini Clone:** 👉 [Get the Code](https://www.the-aideveloper.com/products/ABktLQ)  
+💡 **NodeAPI:** 👉 [Get the Code](https://www.the-aideveloper.com/products/dMVTnM)  
+💡 **Voice AI:** 👉 [Get the Code](https://www.the-aideveloper.com/products/G4rfGx)  
+💡 **DocumentAI:** 👉 [Get the Code](https://www.the-aideveloper.com/products/7HVdbq)  
+💡 **FlowAI:** 👉 [Get the Code](https://www.the-aideveloper.com/products/f6-3Am)  
+💡 **VideoAI:** 👉 [Get the Code](https://www.the-aideveloper.com/products/9jiaLF)  
+
+---
+
+### 🔥 CoreGPT Packages  
+
+👉 **CoreGPT React + NodeJS**: [Get It Here](https://checkout.the-aideveloper.com/b/14keVD7vgcDw4mc6pb)  
+👉 **CoreGPT React + Python FastAPI**: [Get It Here](https://checkout.the-aideveloper.com/b/dR614N8zkdHA8CseVI)  
+
 
 ## Guides
 For detailed instructions and insights, visit our [theAIDeveloper Guides](https://www.the-aideveloper.com/guides).
